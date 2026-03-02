@@ -2,8 +2,7 @@
 
 An AI agent system that uses Claude Code CLI to build software projects autonomously. Two Claude instances — a **Builder** and a **Tester** — take turns creating and reviewing code in a visible split-terminal setup, mimicking the [AllAboutAI YouTube streaming format](https://www.youtube.com/watch?v=rtTuXAvS2yw).
 
-<!-- TODO: Replace with actual video URL after uploading agents_streaming_github.mp4 to a GitHub issue -->
-https://github.com/user-attachments/assets/PLACEHOLDER
+https://github.com/user-attachments/assets/29ea6b40-66f8-46e6-a08b-972bcaad3e0b
 
 ## Table of Contents
 
