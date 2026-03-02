@@ -2,7 +2,9 @@
 
 An AI agent system that uses Claude Code CLI to build software projects autonomously. Two Claude instances — a **Builder** and a **Tester** — take turns creating and reviewing code in a visible split-terminal setup, mimicking the real-time Twitch streaming in the YouTube video ["Claude Code AI Agent Controls Claude Code On Twitch"](https://www.youtube.com/watch?v=rtTuXAvS2yw). Twitch chat integration and streaming support are built-in but have not been tested.
 
-https://github.com/user-attachments/assets/29ea6b40-66f8-46e6-a08b-972bcaad3e0b
+![Streaming 1](docs/streaming_1.jpg)
+![Streaming 2](docs/streaming_2.jpg)
+![Streaming 3](docs/streaming_3.jpg)
 
 ## Table of Contents
 
